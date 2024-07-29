@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zayoon013
-- 👀 I’m interested in ...
+- 👀 I’m interested in scratchattach
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Pyratch
 - 📫 How to reach me zain.abudaqqa@icloud.com
 
 <!---
